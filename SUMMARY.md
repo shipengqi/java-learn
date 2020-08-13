@@ -8,3 +8,5 @@
 - 极客时间 Java 核心技术 36 讲
 - 极客时间 玩转 Spring 全家桶
 - 极客时间 深入拆解 Java 虚拟机
+- [spring-boot-examples](https://github.com/ityouknow/spring-boot-examples?utm_source=gold_browser_extension)
+- [springboot-guide](https://github.com/Snailclimb/springboot-guide)
