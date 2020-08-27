@@ -56,3 +56,17 @@ java -jar hello.jar
 ```
 
 大型项目中可以使用 Maven 来构建 jar 包。
+
+## 模块
+
+如果一个程序处理自己的 `app.jar` 以外，还需要一堆第三方的 jar 包，命令行可能是这样的：
+
+```bash
+java -cp app.jar:a.jar:b.jar:c.jar com.liaoxuefeng.sample.Main
+```
+
+如果漏写了某个 jar 包，运行期极有可能抛出 `ClassNotFoundException`。
+
+jar 包是 class 的容器，它不关心 class 的依赖关系。Java 9 引入了模块，来解决依赖的问题。
+
+**模块的重要作用就是声明依赖关系**。
