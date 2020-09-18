@@ -10,3 +10,4 @@
 - 极客时间 深入拆解 Java 虚拟机
 - [spring-boot-examples](https://github.com/ityouknow/spring-boot-examples?utm_source=gold_browser_extension)
 - [springboot-guide](https://github.com/Snailclimb/springboot-guide)
+- [Java 学习笔记](https://github.com/brianway/java-learning)
