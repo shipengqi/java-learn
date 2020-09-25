@@ -11,3 +11,5 @@
 - [spring-boot-examples](https://github.com/ityouknow/spring-boot-examples?utm_source=gold_browser_extension)
 - [springboot-guide](https://github.com/Snailclimb/springboot-guide)
 - [Java 学习笔记](https://github.com/brianway/java-learning)
+- [hello-algorithm](https://github.com/geekxh/hello-algorithm)
+- [SpringAll](https://github.com/wuyouzhuguli/SpringAll)
